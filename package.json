@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "Github Portfolio Generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbreazier/portfolio-generator.git"
+  },
+  "keywords": [
+    "github",
+    "node"
+  ],
+  "author": "TRB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tbreazier/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/tbreazier/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.2"
+  }
+}
